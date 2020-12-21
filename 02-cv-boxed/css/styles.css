@@ -96,7 +96,7 @@ b.max-bold{ font-weight: 700; }
 
 .margin-tb-30{ margin-top: 30px; margin-bottom: 30px; }
 
-.font-yellow{ color: #1E90FF; }
+.font-yellow{ color: #48D1CC; }
 
 .font-semi-white{ color: #ddd; }
 
@@ -117,7 +117,7 @@ b.max-bold{ font-weight: 700; }
 	
 /* HEADER */
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
-	background: #1E90FF; color: #fff; }
+	background: #48D1CC; color: #fff; }
 
 .intro-section .info{ margin-bottom: 10px; }
 
@@ -147,7 +147,7 @@ b.max-bold{ font-weight: 700; }
 
 
 .intro .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margin-top: 30px;
-	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #1E90FF; color: #fff; 
+	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #48D1CC; color: #fff; 
 	-webkit-transition: all .2s ease; transition: all .2s ease; }
 
 .intro .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
