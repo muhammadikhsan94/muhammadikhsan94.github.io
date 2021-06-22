@@ -115,7 +115,8 @@ b.max-bold{ font-weight: 700; }
 	right: 0; background: rgba(0,0,0, .2); }
 
 	
-/* HEADER */
+/* HEADER */
+
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
 	background: #008080; color: #fff; }
 
@@ -199,7 +200,7 @@ b.max-bold{ font-weight: 700; }
 
 .portfolio-section .p-item a{ display: inline-block; position: relative; }
 
-
+.portfolio-section .p-item img{ height: 150px; width: 100%; position: relative; }
 	
 /* ---------------------------------
 7. EDUCATION SECTION
